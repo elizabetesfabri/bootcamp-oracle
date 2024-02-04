@@ -42,6 +42,16 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>03</td>
+      <td><img width="30px" height="30px" align="center" alt="icon check" src="./github/check.png"></td>
+      <td>Lógica de programação: explore funções e listas</td>
+      <td align="center">
+        <a href="https://github.com/elizabetesfabri/bootcamp-oracle/funcoes-listas" target="_blank">
+           <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20GitHub-132123?style=for-the-badge" width="150px">
+        </a>
+      </td>
+    </tr>
     </tbody>
   <tfoot></tfoot>
 </table>

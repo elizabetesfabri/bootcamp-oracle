@@ -1,5 +1,3 @@
-
-
 [![portfolio](https://img.shields.io/badge/Caderno_de_Estudos_-_ORACLE-E30613?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elzbieta.notion.site/elzbieta/PLANNER-ORACLE-2502335c340d450cbc04e55458f9ce75)
 
 ## 📝 Lógica de programação: mergulhe em programação com JavaScript
